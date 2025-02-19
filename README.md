@@ -5,23 +5,23 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00FF00&background=000000&center=true&vCenter=true&width=500&lines=Hello,+World!+👋;I+am+Shuddhodhan+Surwade;Java+Backend+Developer;Spring+Boot+Enthusiast;Welcome+to+my+profile!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00FF00&background=000000&center=true&vCenter=true&width=500&lines=Hello,+World!+👋;I+am+Sakshi+Patil;Java+Backend+Developer;Spring+Boot+Enthusiast;Welcome+to+my+profile!" alt="Typing SVG">
 </p>
 
 <!-- About Me Section -->
 <h2 align="center" style="color:#39ff14;">💫 About Me</h2>
 <p align="center" style="color:#80ffdb; font-family:monospace;">
-  • 🌏 Based in Shirpur Dhule, India <br>
-  • 📧 Reach me at: <a href="mailto:sssurwade2212@gmail.com" style="color:#00e5ff;">sssurwade2212@gmail.com</a> <br>
+  • 🌏 Based in [Your Location] <br>
+  • 📧 Reach me at: <a href="mailto:sakshipatil07@gmail.com" style="color:#00e5ff;">sakshipatil07@gmail.com</a> <br>
   • 👨‍💻 Passionate about Java Full Stack Development <br>
   • 💬 Ask me about Java, Spring Boot, Hibernate, and more! <br>
-  • 🧿 Check out my <a href="https://sidz111.github.io/portfolio/" target="_blank" style="color:#ff007f;">Portfolio</a> <br>
+  • 🧿 Check out my <a href="https://yourportfolio.com" target="_blank" style="color:#ff007f;">Portfolio</a> <br>
 </p>
 <p align="center" style="color:#ffcc00; font-family:monospace;">🚀 Exploring the Boundaries of Code and Creativity</p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <a href="https://github.com/sidz111/">
+  <a href="https://github.com/sakshipatil07/">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Java%20Developer%20|%20Spring%20Boot%20Enthusiast%20|%20SQL%20Expert;Crafting%20Futuristic%20Apps;&center=true&width=700&height=45&font=monospace&color=00ff00&vCenter=true&size=20">
   </a>
 </p>
@@ -29,17 +29,17 @@
 <!-- Dynamic Stats -->
 <h2 align="center" style="color:#39ff14;">📈 GitHub Stats</h2>
 <p align="center">
-  <a href="https://github.com/sidz111">
-    <img src="https://github-readme-stats.vercel.app/api?username=sidz111&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Shuddhodhan's%20GitHub%20Stats" alt="GitHub Stats" width="49%"/>
+  <a href="https://github.com/sakshipatil07">
+    <img src="https://github-readme-stats.vercel.app/api?username=sakshipatil07&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Sakshi%20Patil's%20GitHub%20Stats" alt="GitHub Stats" width="49%"/>
   </a>
-  <a href="https://github.com/sidz111">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidz111&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="49%"/>
+  <a href="https://github.com/sakshipatil07">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshipatil07&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="49%"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/sidz111">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidz111&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/sakshipatil07">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshipatil07&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
@@ -47,7 +47,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="250">
 </p>
-
 
 ## 💻 Skills & Tools
 <p style="font-size: 18px; color: #FFFFFF;">
@@ -67,10 +66,10 @@
 <!-- Network -->
 <h2 align="center" style="color:#39ff14;">📱 Connect With Me</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/shuddhodhan-surwade-a493b7215/">
+  <a href="https://www.linkedin.com/in/sakshipatil07/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:sssurwade2212@gmail.com">
+  <a href="mailto:sakshipatil07@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
